@@ -9,7 +9,8 @@ This section should list any major frameworks that you built your project using.
 
 ## Getting Started
 You will need access to Amazon Web Services Notebook instance and clone this project there. Open the terminal in the SakeMaker Notebook and type
-```bash cd SageMaker
+```bash
+cd SageMaker
 git clone https://github.com/bpizzani/Comment_Advine.git
 ```
 
@@ -24,7 +25,8 @@ To build the model and preprocess the data you will need the following knowledge
 
 ## Installation
 1.	Clone the repo
-```bash git clone https://github.com/bizzani/Comment_Advine.git
+```bash 
+git clone https://github.com/bizzani/Comment_Advine.git
 ```
 2.	Install pip packages:
 •	Spacy
@@ -32,7 +34,8 @@ To build the model and preprocess the data you will need the following knowledge
 •	Numpy
 •	Pandas
 •	Sklearn
-```bash pip install <packages>
+```bash
+pip install <packages>
 !python -m spacy download es
 ```
   
