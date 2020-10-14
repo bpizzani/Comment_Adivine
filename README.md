@@ -16,11 +16,17 @@ git clone https://github.com/bpizzani/Comment_Advine.git
 
 ## Prerequisites
 To build the model and preprocess the data you will need the following knowledge:
+
 •	AmazonWebServices – SageMaker
+
 •	API and Lambda functions
+
 •	Machine Learning concepts
+
 •	Sklearn
+
 •	NLTK
+
 •	Spacy
 
 ## Installation
@@ -30,10 +36,15 @@ git clone https://github.com/bizzani/Comment_Advine.git
 ```
 2.	Install pip packages:
 •	Spacy
+
 •	NLTK
+
 •	Numpy
+
 •	Pandas
+
 •	Sklearn
+
 ```bash
 pip install <packages>
 !python -m spacy download es
