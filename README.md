@@ -25,7 +25,7 @@ To build the model and preprocess the data you will need the following knowledge
 ## Installation
 1.	Clone the repo
 ```bash git clone https://github.com/bizzani/Comment_Advine.git
-``` 
+```
 2.	Install pip packages:
 •	Spacy
 •	NLTK
@@ -34,7 +34,7 @@ To build the model and preprocess the data you will need the following knowledge
 •	Sklearn
 ```bash pip install <packages>
 !python -m spacy download es
-``` 
+```
   
 ## Usage
 Once you have clone the project into ASW Sagemaker Notebook you can access the .ipynb file and run the preprocessing code and build the sklearn LinearSVC estimator and carry on the deployment. 
