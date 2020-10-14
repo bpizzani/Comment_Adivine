@@ -35,6 +35,7 @@ To build the model and preprocess the data you will need the following knowledge
 git clone https://github.com/bizzani/Comment_Advine.git
 ```
 2.	Install pip packages:
+
 •	Spacy
 
 •	NLTK
@@ -52,9 +53,13 @@ pip install <packages>
   
 ## Usage
 Once you have clone the project into ASW Sagemaker Notebook you can access the .ipynb file and run the preprocessing code and build the sklearn LinearSVC estimator and carry on the deployment. 
+
 Once the predictor (estimator.deploy()) has been created we create a Lambda Function and invoke the endpoint setting the endpoint name to the predictor endpoint name (predictor.endpoint).
+
 Lambda function code is also included in this project.
+
 Finally, we create an API linked to our lambda function in AWS API, and we will get the API url that we would need to copy and paste into the “Index.html” file in the where: action= “link”
+
 The lambda functions will take a string and convert it to a list of a single string since the model would accept an array in order to make predictions.
 To make predictions we access “Index.html” and just type down our comment.
 
