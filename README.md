@@ -1,16 +1,18 @@
 # Comment_Adivine
 
-About The Project
+## About The Project
 This project builds a supervised model to provide real-time labeled comments. After preprocessing the comments received from customers on different Hospitals,the model aims to predicts the labels of the comments based on the principle of TFIDF using a supervised model based on vector: LinearSVC.
 Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 •	AWS SageMaker
 •	Python
-Getting Started
+
+## Getting Started
 You will need access to Amazon Web Services Notebook instance and clone this project there. Open the terminal in the SakeMaker Notebook and type
 cd SageMaker
 git clone https://github.com/bpizzani/Comment_Advine.git
-Prerequisites
+
+## Prerequisites
 To build the model and preprocess the data you will need the following knowledge:
 •	AmazonWebServices – SageMaker
 •	API and Lambda functions
@@ -18,7 +20,8 @@ To build the model and preprocess the data you will need the following knowledge
 •	Sklearn
 •	NLTK
 •	Spacy
-Installation
+
+## Installation
 1.	Clone the repo
 git clone https://github.com/bizzani/Comment_Advine.git
 2.	Install pip packages:
@@ -29,16 +32,18 @@ git clone https://github.com/bizzani/Comment_Advine.git
 •	Sklearn
 pip install <packages>
 !python -m spacy download es
-Usage
+  
+## Usage
 Once you have clone the project into ASW Sagemaker Notebook you can access the .ipynb file and run the preprocessing code and build the sklearn LinearSVC estimator and carry on the deployment. 
 Once the predictor (estimator.deploy()) has been created we create a Lambda Function and invoke the endpoint setting the endpoint name to the predictor endpoint name (predictor.endpoint).
 Lambda function code is also included in this project.
 Finally, we create an API linked to our lambda function in AWS API, and we will get the API url that we would need to copy and paste into the “Index.html” file in the where: action= “link”
 The lambda functions will take a string and convert it to a list of a single string since the model would accept an array in order to make predictions.
 To make predictions we access “Index.html” and just type down our comment.
-License
+
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
+## Contact
 Your Name – bpizzani92@gmail.com
 Project Link: https://github.com/bpizzani/Comment_Adiviner
