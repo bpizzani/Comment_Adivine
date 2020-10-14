@@ -9,8 +9,9 @@ This section should list any major frameworks that you built your project using.
 
 ## Getting Started
 You will need access to Amazon Web Services Notebook instance and clone this project there. Open the terminal in the SakeMaker Notebook and type
-cd SageMaker
+```bash cd SageMaker
 git clone https://github.com/bpizzani/Comment_Advine.git
+```
 
 ## Prerequisites
 To build the model and preprocess the data you will need the following knowledge:
@@ -23,15 +24,17 @@ To build the model and preprocess the data you will need the following knowledge
 
 ## Installation
 1.	Clone the repo
-git clone https://github.com/bizzani/Comment_Advine.git
+```bash git clone https://github.com/bizzani/Comment_Advine.git
+``` 
 2.	Install pip packages:
 •	Spacy
 •	NLTK
 •	Numpy
 •	Pandas
 •	Sklearn
-pip install <packages>
+```bash pip install <packages>
 !python -m spacy download es
+``` 
   
 ## Usage
 Once you have clone the project into ASW Sagemaker Notebook you can access the .ipynb file and run the preprocessing code and build the sklearn LinearSVC estimator and carry on the deployment. 
