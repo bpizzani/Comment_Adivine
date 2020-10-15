@@ -2,8 +2,8 @@
 
 ## About The Project
 This project builds a supervised model to provide real-time labeled comments. After preprocessing the comments received from customers on different Hospitals,the model aims to predicts the labels of the comments based on the principle of TFIDF using a supervised model based on vector: LinearSVC.
-Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+## Built With
 •	AWS SageMaker
 •	Python
 
