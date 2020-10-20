@@ -46,6 +46,8 @@ git clone https://github.com/bizzani/Comment_Advine.git
 
 •	Sklearn
 
+•	Matplotlib
+
 ```bash
 pip install <packages>
 !python -m spacy download es
@@ -61,7 +63,8 @@ Lambda function code is also included in this project.
 Finally, we create an API linked to our lambda function in AWS API, and we will get the API url that we would need to copy and paste into the “Index.html” file in the where: action= “link”
 
 The lambda functions will take a string and convert it to a list of a single string since the model would accept an array in order to make predictions.
-To make predictions we access “Index.html” and just type down our comment.
+
+To make predictions we access “Index.html” and upload a CSV file containing reviews on each row. Then click Submit and we we receive a table with predictions o neach comment.
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
