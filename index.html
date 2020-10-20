@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Comment Predictor Web App</title>
+        <meta charset="utf-8">
+        <meta name="viewport"  content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+  <script src="papaparse.min.js"></script>
+
+        
+	  <!--This script loads the CSV file -->
+      <script type="text/javascript">
+         $(document).ready(function(){
+           $('#submit-file').on("click",function(e){
+         e.preventDefault();
+         $('#files').parse({
+         	config: {
+         		delimiter: "auto",
+         		complete: displayHTMLTable,
+         	},
+         	before: function(file, inputElem)
+         	{
+         		//console.log("Parsing file...", file);
+         	},
+         	error: function(err, file)
+         	{
+         		//console.log("ERROR:", err, file);
+         	},
+         	complete: function()
+         	{
+         		//console.log("Done with all files");
+         	}
+         });
+           });
+         
+	     //This function goes through the CSV file and add each cell to the text area with commas
+         function displayHTMLTable(results){
+			 var csv_loaded = "<h2>CSV Loaded Sucessfully</h2>";
+			 var csv_info_title = "<h3>Information in CSV</h3>";
+			 var textarea = "<textarea id='csv_data' class='form-control'  rows='10'>";
+			 var data = results.data;
+
+			 for(i=0;i<data.length;i++) {
+					 {
+						var row = data[i];
+						var cells = row.join(",").split(",");
+
+						for(j=0;j<cells.length;j++) {
+							textarea+= cells[j];
+							textarea+= ",";
+						}
+         			}
+         	}
+
+         textarea+= "</textarea>";
+	     $("#csv_loaded").html(csv_loaded);
+         $("#csv_info_title").html(csv_info_title);
+		 $("#parsed_csv").html(textarea);
+         }
+		 })
+		  
+ 
+         
+
+      
+			
+          "use strict";
+         function submitForm(oFormElement) {
+             var xhr = new XMLHttpRequest();
+             xhr.onload = function() {
+                 var result = (xhr.responseText);
+				 var result2 = result.split(",");
+				 var result3 = result.split(',').join('<br />') ;
+	
+
+			 var resultElement = document.getElementById('result');
+				
+			
+		
+				
+				 var data_dict ={"id":[],"Label":[],"Comment":[]};	
+				 var dictionary = {0:"FOOD",1:"WAITING",2:"OUT",3:"FACILITY",4:"CLEANING",5:"KIDS",6:"STAFF",7:"PRICES",8:"APPOINTMENT"};
+				
+				for(i = 0; i < result2.length; i++) {
+					data_dict["id"][i] = i;
+					data_dict["Label"][i] =  result2[i];
+				}
+		 
+			   
+				 
+	function resultTable(arr1, arr2,arr3) {
+    var result = "<table id='Result' border=1 CAPTION><EM>Prediciton Table</EM></CAPTION> <TR><TH rowspan=0><TH colspan=0>ID<TH rowspan=0><TH colspan=1>Predicted Label<TH rowspan=0><TH rowspan=1>Comment";
+    for(var i = 0; i < arr1.length; i++) {
+        result += "<tr>";
+        result += "<td>"+arr1[i]+"</td>";
+        result += "<td>"+arr2[i]+"</td>";
+		result += "<td>"+arr3[i]+"</td>";
+        result += "</tr>";
+    }
+    result += "</table>";
+    return result;
+}
+ 	
+var comments = document.getElementById('csv_data')
+var comments2 = comments.value.split(",")
+data_dict["Comment"] =comments2
+var table = resultTable(data_dict["id"], data_dict["Label"],data_dict["Comment"]);
+
+				 // document.getElementById('container').innerHTML =  "ID   <t><t>     Label  <t><t>      Comments <t><t>" + table;		 
+
+				resultElement.className = 'bg-success';
+                 resultElement.innerHTML = table
+
+		
+				 
+             }
+
+		      xhr.open (oFormElement.method, oFormElement.action, true);
+             var review = document.getElementById('csv_data');
+             xhr.send (review.value);
+             return false;
+         }
+		 
+        </script>
+
+
+		
+ </head>
+   <body>
+	 
+	   
+      <div class="container" style="padding:10px 10px;">
+         <h1>Input Order CSV File</h1>
+         <div class="well">
+            <div class="row">
+               <form class="form-inline">
+                  <div class="form-group">
+                     <!--<label for="files">Upload a CSV formatted file:</label>-->
+                     <input type="file" id="files"  class="form-control" accept=".csv" required />
+                  </div>
+                  <div class="form-group">
+                     <button type="submit" id="submit-file" class="btn btn-primary">Upload File</button>
+                  </div>
+               </form>
+            </div>
+		
+			 
+	    </div>
+			 
+
+
+			 
+       
+
+        <form method="POST"
+                  action=" https://p7pxpjagfg.execute-api.eu-central-1.amazonaws.com/prod"
+                  onsubmit="return submitForm(this);" >                     <!-- HERE IS WHERE YOU NEED TO ENTER THE API URL -->
+                <div class="form-group">
+                   
+					
+			 
+					
+             	<div class="row" id="csv_loaded"></div>
+			<div class="row" id="csv_info_title"></div>
+            <div class="row" id="parsed_csv"></div>
+					
+                
+		 
+                <button type="submit" class="btn btn-default">Submit</button>
+					
+				</div>	
+            </form>
+			
+
+		  
+            <h1 class="bg-success" id="result"></h1>
+
+	
+        </div>
+
+
+	    	<div id="container"></div>
+    </body>
+</html>
