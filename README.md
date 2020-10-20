@@ -66,6 +66,10 @@ The lambda functions will take a string and send it to the model, the prediction
 
 To make predictions we access “Index.html” and upload a CSV file containing reviews on each row. Then click Submit and we we receive a table with predictions on each comment.
 
+You can use the file test_data_WebbApp.xlsx to thest the Web App.
+I also created my own domain and uploaded the Web App to my domain, so anyone could access this URL and make predicitons:
+https://www.brunopizzani.com/Comment_Adiviner_CSV.html
+
 ## License
 Distributed under the MIT License. See LICENSE for more information.
 
