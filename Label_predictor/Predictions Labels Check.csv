@@ -1,0 +1,717 @@
+,Comment,Real Label,Predicted Label
+0,personal recepcion pod ser amabl,PERSONAL,PERSONAL
+1,jor estanci enferm,INSTALACIONES,FUERA
+2,atencion,PERSONAL,PERSONAL
+3,informacion,PERSONAL,PERSONAL
+4,com vegetarian vegan carn,COMIDA,COMIDA
+5,preci mes bararu,PRECIOS,PRECIOS
+6,preci bastant demas perfect,PRECIOS,PRECIOS
+7,tard,ESPERA,ESPERA
+8,consult estern,INSTALACIONES,INSTALACIONES
+9,limpiez,LIMPIEZA,LIMPIEZA
+10,sal esper plays,NIÑOS,INSTALACIONES
+11,jarlak,FUERA,FUERA
+12,demasi car,PRECIOS,PRECIOS
+13,vigil segur oler alcohol,PERSONAL,INSTALACIONES
+14,esper,ESPERA,ESPERA
+15,hbi dar,FUERA,PERSONAL
+16,tiemp esper demor resulta,ESPERA,ESPERA
+17,vdjyiy,FUERA,FUERA
+18,trat recepcion     ,PERSONAL,PERSONAL
+19,atencion primari,PERSONAL,PERSONAL
+20,verguenz tac may ano pas  por variz     verguenz dolor aguant malest      verguenz,ESPERA,ESPERA
+21,                     popo              nowirr                    ,FUERA,FUERA
+22,rapidez atend,ESPERA,ESPERA
+23,indic senalizacion hospital laberint,INSTALACIONES,INSTALACIONES
+24,th,FUERA,FUERA
+25,oler pintur,INSTALACIONES,FUERA
+26,puntual,ESPERA,ESPERA
+27,dr especif,PERSONAL,PERSONAL
+28,jj,FUERA,FUERA
+29,person mal pan coj resulta tard pod tard men pan resulta antendel posibl,ESPERA,ESPERA
+30,caf,COMIDA,PERSONAL
+31,horari,PROGRAMACIÓN,PROGRAMACIÓN
+32,puntual,ESPERA,ESPERA
+33,hac falt mes box,INSTALACIONES,INSTALACIONES
+34,plaixtixon pro,NIÑOS,FUERA
+35,trat primer atencion car enfad treinli import,PERSONAL,PERSONAL
+36,nlk,FUERA,FUERA
+37,andree   mam pap eli may,FUERA,FUERA
+38,servici limpiez,LIMPIEZA,LIMPIEZA
+39,tiemp esper,ESPERA,ESPERA
+40,x,FUERA,FUERA
+41,pon urgenci dermatolog,PERSONAL,PERSONAL
+42,cambi hor programadas h leg cambiarmevtr vecescel mism especial,PROGRAMACIÓN,PROGRAMACIÓN
+43,tiemp dar result si mejor sereis mejor hospital,INSTALACIONES,INSTALACIONES
+44,medic atend urgenci esper demasi,ESPERA,ESPERA
+45,pudriau pag,PRECIOS,PRECIOS
+46,knv,FUERA,FUERA
+47,mejor tiemp cit,PROGRAMACIÓN,PROGRAMACIÓN
+48,regaliz maquin dur,COMIDA,INSTALACIONES
+49,tiemp esper,ESPERA,ESPERA
+50,trat,PERSONAL,PERSONAL
+51,facil contact departament,PROGRAMACIÓN,PROGRAMACIÓN
+52,ten criteri comun explic proces,PERSONAL,PERSONAL
+53,ramp acces sill rued,INSTALACIONES,INSTALACIONES
+54,olor sal,LIMPIEZA,LIMPIEZA
+55,dol enfermer explic enfermer entrar cambi turn problem pacient acab salv vid grav vez escuch explic fiest noch anterior enfermer volv insit preocup rie bien pas graci lleg tres prest atecion agrad moment atent,PERSONAL,PERSONAL
+56,atend recepcion fatal,PERSONAL,PERSONAL
+57,mngad,COMIDA,COMIDA
+58,pod tard dar result rx,INSTALACIONES,INSTALACIONES
+59,tiemp esper nuev jueg ide sal nin tan pequen cas   an m aborreij esper,ESPERA,NIÑOS
+60,tiemp esper,ESPERA,ESPERA
+61,verguenz,PRECIOS,ESPERA
+62,ten limpi,LIMPIEZA,LIMPIEZA
+63,falt amab idad auxili enferm,INSTALACIONES,INSTALACIONES
+64,pon mas dibuj color bonit,NIÑOS,NIÑOS
+65,sal,INSTALACIONES,INSTALACIONES
+66,allargarcels tratamient cronic pe parafin artrit,PROGRAMACIÓN,FUERA
+67,aclar motiv visit prob document citacion,PERSONAL,PROGRAMACIÓN
+68,tiemp esper,ESPERA,ESPERA
+69,doctor quej incident informat,PERSONAL,PERSONAL
+70,pan tomat,COMIDA,COMIDA
+71,medic bail rapib mas rap,ESPERA,ESPERA
+72,tiemp esper,ESPERA,ESPERA
+73,atendent intern cuid q peg ellas y mied ultim mas com,COMIDA,COMIDA
+74,list esper cos direct servici supon gustari mas rap,ESPERA,ESPERA
+75,acer esper,ESPERA,ESPERA
+76,aclar diferenci ped barr mes rest perfect,PERSONAL,PERSONAL
+77,foll,FUERA,FUERA
+78,tard dar result asi sylo,ESPERA,ESPERA
+79,servell ofrec,PERSONAL,FUERA
+80,cit antelacion contraproducent mejor cit mied orden turn pas acud final col,PROGRAMACIÓN,PROGRAMACIÓN
+81,menu diari,COMIDA,COMIDA
+82,falt personal,PERSONAL,PERSONAL
+83,atencion psicolog,PERSONAL,PERSONAL
+84,puntual atebd client,ESPERA,ESPERA
+85,graci amabil empat,PERSONAL,PERSONAL
+86,personal,PERSONAL,PERSONAL
+87,cit diferent departament dificil coordin,PROGRAMACIÓN,PROGRAMACIÓN
+88,teneis mejor,PRECIOS,PERSONAL
+89,limpi sol,LIMPIEZA,LIMPIEZA
+90,tiemp esper,ESPERA,ESPERA
+91,horari visit,PROGRAMACIÓN,PROGRAMACIÓN
+92,masomen,FUERA,FUERA
+93,beb alcohol,COMIDA,FUERA
+94,sac ventan tap,INSTALACIONES,FUERA
+95,podeis mejor sal esper pon poquit mas juguet nin abur dem sup bien     aue mejor atendeis client,INSTALACIONES,NIÑOS
+96,juuhy,FUERA,FUERA
+97,n  russi,FUERA,FUERA
+98,visit enfer,PROGRAMACIÓN,PROGRAMACIÓN
+99,hhhh,FUERA,FUERA
+100,ascensor,INSTALACIONES,INSTALACIONES
+101,ban,LIMPIEZA,LIMPIEZA
+102,menu vari,COMIDA,COMIDA
+103,administr refepcion deberi penient pacient vez sup movil               h,PERSONAL,PERSONAL
+104,ten tiemp pacient zon urgenci comunic q ir ser ingres,INSTALACIONES,PERSONAL
+105,ten agu clinic,INSTALACIONES,COMIDA
+106,mal,PRECIOS,PRECIOS
+107,sal esper part pint d nin,INSTALACIONES,INSTALACIONES
+108,sal atencion,INSTALACIONES,PERSONAL
+109,jueg,NIÑOS,NIÑOS
+110,perd calid com lhorrari atencion profesional servici,COMIDA,PERSONAL
+111,pesim esper juguet suci mal valoracion,ESPERA,NIÑOS
+112,croquet tan bland,COMIDA,FUERA
+113,instal,INSTALACIONES,INSTALACIONES
+114,horari visit,PROGRAMACIÓN,PROGRAMACIÓN
+115,agiliz visit especical,PROGRAMACIÓN,ESPERA
+116,trat personal simpat,PERSONAL,PERSONAL
+117,mas personal mas amabl,PERSONAL,PERSONAL
+118, ,FUERA,FUERA
+119,nin hospital libr infantil,NIÑOS,NIÑOS
+120,mayor formacion posibl personal medic enfermeri tambi rest ver pacient person form integr sol aspect clinic          evit convert trabaj rutin              etceter final trabaj modod vid sent hac actu maquinit program protocol aun defect mejor avanz segun desenvolupament hurr sanid public cuid form profesional exijamosl tambi,PERSONAL,PERSONAL
+121,atend telefon,PROGRAMACIÓN,PROGRAMACIÓN
+122,lent,ESPERA,ESPERA
+123,lent,ESPERA,ESPERA
+124,normal tiemp esper dar vez consult    dias nobten personal,ESPERA,ESPERA
+125,precios baj,PRECIOS,PRECIOS
+126,puntual favor,ESPERA,ESPERA
+127,hac pizz,COMIDA,COMIDA
+128,falt limpi,LIMPIEZA,LIMPIEZA
+129,coloc cambiador beb ban,LIMPIEZA,LIMPIEZA
+130,tiemp esper facil consegu cit,PROGRAMACIÓN,PROGRAMACIÓN
+131,calid com exel pod mejor natej,LIMPIEZA,COMIDA
+132,informacion,PERSONAL,PERSONAL
+133,cit previ,PROGRAMACIÓN,PROGRAMACIÓN
+134,mas barat,PRECIOS,PRECIOS
+135,mas varied menu mes plat,COMIDA,COMIDA
+136,mejor ansied,INSTALACIONES,PERSONAL
+137,intimid box sill confort larg esper,INSTALACIONES,INSTALACIONES
+138,orden ten maquin modern,INSTALACIONES,INSTALACIONES
+139,tiemp esper,ESPERA,ESPERA
+140,podri mejor infraestructur hospital dia salud mental usari profesional agradeceri tambi podri incorpor telefon sistem salud mental dar cit ayudari enfermer sistem cit mas factibl,PROGRAMACIÓN,PROGRAMACIÓN
+141,quer dej met nin sal,NIÑOS,NIÑOS
+142,vient flatulent expel ano,FUERA,FUERA
+143,cubr suplenci produc retras stres,PERSONAL,ESPERA
+144,atencion telefon,PROGRAMACIÓN,PROGRAMACIÓN
+145,maquin expendedor pon maquin cambi billet moned,INSTALACIONES,INSTALACIONES
+146,pon fuent,INSTALACIONES,INSTALACIONES
+147,necesit personal mashumanld,PERSONAL,PERSONAL
+148,mejor aumet financiacion salud public,INSTALACIONES,PERSONAL
+149,gt,FUERA,FUERA
+150,trat mejor nin nin,NIÑOS,NIÑOS
+151,levant ded rot mnan evi centr       an ataend,PERSONAL,INSTALACIONES
+152,pon juguet nuev hij,NIÑOS,NIÑOS
+153, ,FUERA,FUERA
+154,esper,ESPERA,ESPERA
+155,dej entrar nin sal embaraz,NIÑOS,NIÑOS
+156,sill comod bocadill esten dur limpiez,LIMPIEZA,LIMPIEZA
+157,falt sill sal eser,INSTALACIONES,INSTALACIONES
+158,dar resposr famili esper result medic pacient ingres,ESPERA,PERSONAL
+159,explic enferm acompan cualqu tip deberi dars despach lug respet privac box comun delant dem enferm acompan,INSTALACIONES,INSTALACIONES
+160,col form exped,ESPERA,ESPERA
+161,precios,PRECIOS,PRECIOS
+162,tiemp esper,ESPERA,ESPERA
+163,mejor present bocadill,COMIDA,COMIDA
+164,atencion administr efect fri,PERSONAL,PERSONAL
+165,tiemp esper     desesper vergonz,ESPERA,ESPERA
+166,preci,PRECIOS,PRECIOS
+167,cit hor cog,PROGRAMACIÓN,PROGRAMACIÓN
+168,atend gent cit men atend   cit,PROGRAMACIÓN,PROGRAMACIÓN
+169,eteci telefon c,PROGRAMACIÓN,PROGRAMACIÓN
+170,tiemp esper prueb tardi mes,ESPERA,ESPERA
+171,videojueg,NIÑOS,NIÑOS
+172,jgbmi,FUERA,FUERA
+173,tiemp esper vergonz falt personal sanitari,ESPERA,ESPERA
+174,suel incompetent servici mal instalcion vergonz,PERSONAL,PERSONAL
+175,respet turn leg mism especial,PROGRAMACIÓN,PROGRAMACIÓN
+176,preci,PRECIOS,PRECIOS
+177,sill mes comod,INSTALACIONES,INSTALACIONES
+178,retras sal esper,ESPERA,ESPERA
+179,informaciom medic lug priv pasill box,INSTALACIONES,INSTALACIONES
+180,tard llam,ESPERA,ESPERA
+181,servici oftalmolog mal educ molesr pregunt,PERSONAL,PERSONAL
+182,moderniz instal,INSTALACIONES,INSTALACIONES
+183,esper pasill urgenci tercermund,ESPERA,ESPERA
+184,apides,ESPERA,FUERA
+185,menor tiemp sper intervencion,ESPERA,ESPERA
+186,opinion mejor pon cartel manan cos eusker,INSTALACIONES,INSTALACIONES
+187,ghgj,FUERA,FUERA
+188,atend,ESPERA,ESPERA
+189,vajill sol usar medi ambient,INSTALACIONES,ESPERA
+190,medic,PERSONAL,PERSONAL
+191,rapuidez atencion profesional,PERSONAL,PERSONAL
+192,cambi ortodonc,PERSONAL,PERSONAL
+193,tiemp esper,ESPERA,ESPERA
+194,puntualidat,ESPERA,FUERA
+195,entrar beb menu person aqu mied luj sin mied neces,PRECIOS,PERSONAL
+196,cos,COMIDA,COMIDA
+197,puntual hijien,ESPERA,ESPERA
+198,amabil qui trabaj verd pas tiemp,PERSONAL,PERSONAL
+199,trat client,PERSONAL,PERSONAL
+200,aclar funcion tel,INSTALACIONES,NIÑOS
+201,preci,PRECIOS,PRECIOS
+202,tiemp esper citacion atend mism especial,ESPERA,ESPERA
+203,enfermer rui pel mied hombr capaz par solucion dud trat mal person esper,PERSONAL,PERSONAL
+204,cre pod mejor cit servici,PERSONAL,PROGRAMACIÓN
+205,falt mitjans tecnic,PERSONAL,PERSONAL
+206,ten ten com calent dia,COMIDA,COMIDA
+207,ser amabl pacient,PERSONAL,PERSONAL
+208,cervez alcohol,COMIDA,COMIDA
+209,cit prueb te podi dar mism consult ginecolog,PROGRAMACIÓN,PROGRAMACIÓN
+210,putual,ESPERA,FUERA
+211,maquin ticket rut,INSTALACIONES,INSTALACIONES
+212,ajust hor cit leg decilitr medicament,PROGRAMACIÓN,PROGRAMACIÓN
+213,esper,ESPERA,ESPERA
+214,preci,PRECIOS,PRECIOS
+215,mejor megafon,INSTALACIONES,FUERA
+216,mejor higien,LIMPIEZA,PERSONAL
+217,friebr,FUERA,FUERA
+218,enfermer medic deberi realiza compr personal horari trabaj,PERSONAL,PERSONAL
+219,agiliz cit,PROGRAMACIÓN,PROGRAMACIÓN
+220,averig situacion personalsocial coordin sum tratamiet noperjudiqu usar,PERSONAL,FUERA
+221,pon cambiador beb ase,INSTALACIONES,LIMPIEZA
+222,demas lent esper   hor medi medicol proxim ked cas,ESPERA,ESPERA
+223,alexescasany,FUERA,FUERA
+224,pon cit,PROGRAMACIÓN,PROGRAMACIÓN
+225,pen perd medi filipp canev asistenial ente profesional,PERSONAL,PERSONAL
+226,atencion,PERSONAL,PERSONAL
+227,lisr,INSTALACIONES,FUERA
+228,disponibil historial medic maner electron pacient,PROGRAMACIÓN,PERSONAL
+229,contest haci client derech pregunt si quer pod acer form gust contestestacion emple ser adecu correct men educ,PERSONAL,PERSONAL
+230,puntual,ESPERA,ESPERA
+231,hjttuu,FUERA,FUERA
+232,zum naranj natural azuc,COMIDA,COMIDA
+233,esper,ESPERA,ESPERA
+234,dra nor trat delicadez   ,PERSONAL,PERSONAL
+235,varied frut,COMIDA,COMIDA
+236,masfit facult,PERSONAL,FUERA
+237,precision horari,ESPERA,PROGRAMACIÓN
+238,tiemp esper co as mostrador,ESPERA,ESPERA
+239,cit antes fatim sanch,PROGRAMACIÓN,PROGRAMACIÓN
+240,puntual,ESPERA,ESPERA
+241,facil comunic telefon gestion program visit siempr comunic,PROGRAMACIÓN,PROGRAMACIÓN
+242,mitjans,PERSONAL,PERSONAL
+243,econom mui car hospital ven neces,PRECIOS,PRECIOS
+244,manten instal ejempl air acondicion,INSTALACIONES,INSTALACIONES
+245,pedirv cit,PROGRAMACIÓN,PROGRAMACIÓN
+246,jueg,NIÑOS,NIÑOS
+247,cos dar mas esplic mas neces enferm,PERSONAL,PERSONAL
+248,personal mejor atencion empat,PERSONAL,PERSONAL
+249,puntual,ESPERA,ESPERA
+250,esper horror,ESPERA,ESPERA
+251,puntual,ESPERA,ESPERA
+252,atencion dentist demor prueb determin cos,PERSONAL,PROGRAMACIÓN
+253,am tem denesper,ESPERA,FUERA
+254,atencion inform telefon,PROGRAMACIÓN,PERSONAL
+255,demasi descontrol ano cambi peor,PERSONAL,PERSONAL
+256,sal hor desayun falt siti,INSTALACIONES,INSTALACIONES
+257,bien tit enorabon  ,COMIDA,COMIDA
+258,tiemp esper rapidez prueb mejor atencion mied part portal medic,PERSONAL,ESPERA
+259,comprension conduct realist posit   ,PERSONAL,PERSONAL
+260,atencion pacient,PERSONAL,PERSONAL
+261,medic ser mas rap atend,PERSONAL,ESPERA
+262,horari,PROGRAMACIÓN,PROGRAMACIÓN
+263,esper,ESPERA,ESPERA
+264,tiemp esper,ESPERA,ESPERA
+265,preci mas econom,PRECIOS,PRECIOS
+266,puntual,ESPERA,ESPERA
+267,mejor bocadill,COMIDA,COMIDA
+268,urgenci esper pod reduc,ESPERA,ESPERA
+269,cachond       pas raton vez atend,PERSONAL,INSTALACIONES
+270,mayor clarid indici mied part portal profesional,PERSONAL,PERSONAL
+271,falt coordin cirujan fisi fundamental,PERSONAL,INSTALACIONES
+272,entot,FUERA,FUERA
+273,falt enfermer atend pacient l equip doctor bruix trabaj mas pod,PERSONAL,PERSONAL
+274,  ,FUERA,FUERA
+275,     ,FUERA,FUERA
+276,mejor simpat personal barr,PERSONAL,PERSONAL
+277,varied,COMIDA,COMIDA
+278,esper,ESPERA,ESPERA
+279,pon vacun analisis sangr quit rop,FUERA,INSTALACIONES
+280,metr hjn,FUERA,FUERA
+281,present bocadill caf mejor plat papel,COMIDA,COMIDA
+282,rapidez prepar com,ESPERA,COMIDA
+283,tiemp esper lentitud,ESPERA,ESPERA
+284,esper,ESPERA,ESPERA
+285,recepcion sol,INSTALACIONES,PERSONAL
+286,instal defas,INSTALACIONES,INSTALACIONES
+287,evit cambi frecuent medic llev,PERSONAL,PERSONAL
+288,vtuf,FUERA,FUERA
+289,atenciontiemp esper,ESPERA,ESPERA
+290,ase,LIMPIEZA,LIMPIEZA
+291,sistem dde cit acer cumpl fech dat cambi cad vez mas frecuenci cit,PROGRAMACIÓN,PROGRAMACIÓN
+292,car,PRECIOS,PRECIOS
+293,hij ursul belmont arca quer agradec atencion dispens madr pes avancaf edad cognit mejor ped continu profesional,PERSONAL,PERSONAL
+294,personal medic enfermer,PERSONAL,PERSONAL
+295,tod,COMIDA,COMIDA
+296,personal,PERSONAL,PERSONAL
+297,mas grand clinic,INSTALACIONES,INSTALACIONES
+298,sill gent acompan pas noch,INSTALACIONES,INSTALACIONES
+299,desayun churr azuc,COMIDA,COMIDA
+300,cit,PROGRAMACIÓN,PROGRAMACIÓN
+301,medic,PERSONAL,PERSONAL
+302,mejor atencion public hac mas eficaz visit,PERSONAL,PERSONAL
+303,clarid cartel inform traumotolog sab dond si venider,INSTALACIONES,PERSONAL
+304,list tiemp esper,ESPERA,ESPERA
+305,tiemp esper etern,ESPERA,ESPERA
+306,tiemp esper,ESPERA,ESPERA
+307,deberi atend mejor,PERSONAL,ESPERA
+308,atencion,PERSONAL,PERSONAL
+309,pagin,FUERA,FUERA
+310,esper,ESPERA,ESPERA
+311,triaj pasill verguenz enter calid obten supon ser previ pag empres valor cobr    ,INSTALACIONES,PERSONAL
+312,tras,FUERA,FUERA
+313,brab,FUERA,FUERA
+314,veloc atencion terribl,PERSONAL,ESPERA
+315,puntual,ESPERA,ESPERA
+316,tiemp esper,ESPERA,ESPERA
+317,atencion personal varied vest ningun siti q menu beb,PERSONAL,PERSONAL
+318,limpiez abitaci basur lanz aunqu bols llen,LIMPIEZA,LIMPIEZA
+319,esper entrar consult sidon hor parec larg graci,ESPERA,ESPERA
+320,usar espadsrrap caer tapader air acondicion usar pal cerroj ban,INSTALACIONES,LIMPIEZA
+321,mejor instal,INSTALACIONES,INSTALACIONES
+322,orari reduc,PROGRAMACIÓN,PROGRAMACIÓN
+323,men tiemp esper,ESPERA,ESPERA
+324,hoy hij atend medic estupend favor cambi do pediatr hoy sal content dia,PERSONAL,PERSONAL
+325,na,FUERA,FUERA
+326,mmaquin tikets,INSTALACIONES,FUERA
+327,esper  ,ESPERA,ESPERA
+328,preci,PRECIOS,PRECIOS
+329,puntual,ESPERA,ESPERA
+330,tiepi esper,ESPERA,ESPERA
+331,informacion prob hac mas explic proces esper sill acompan fatal,PERSONAL,INSTALACIONES
+332,distribu espaci,INSTALACIONES,INSTALACIONES
+333,pon music sal esper,INSTALACIONES,INSTALACIONES
+334,mes personal,PERSONAL,PERSONAL
+335,mejor control oftalmolog,INSTALACIONES,FUERA
+336,aliment deb ser mas salud,COMIDA,COMIDA
+337,sill comod acompan,INSTALACIONES,INSTALACIONES
+338,movill carr sill rued column,INSTALACIONES,INSTALACIONES
+339,poll,FUERA,FUERA
+340,    minut esper,ESPERA,ESPERA
+341,tiemp esper ampliacion personal,ESPERA,ESPERA
+342,pon tel,INSTALACIONES,INSTALACIONES
+343,bocadill manan escas requem hor ped caf lech serv vas nigun pregunt,COMIDA,PERSONAL
+344,casi   hor esper pobr si lleg mas tard pq visit qued anul lad,ESPERA,ESPERA
+345,  s,FUERA,FUERA
+346,estupend atencion,PERSONAL,PERSONAL
+347,cuart ban fatal,LIMPIEZA,LIMPIEZA
+348,ser idiot,FUERA,PERSONAL
+349,amabil,PERSONAL,PERSONAL
+350,x mkok,FUERA,FUERA
+351,personal administratv tra pacient mejor,PERSONAL,PERSONAL
+352,calid r,COMIDA,PERSONAL
+353,bocadill,COMIDA,COMIDA
+354,limpiez len,LIMPIEZA,LIMPIEZA
+355,netex inodor,LIMPIEZA,FUERA
+356,mas personal momemt sol person atend,PERSONAL,PERSONAL
+357,cambi personal ir lent esper,PERSONAL,ESPERA
+358,calid aliment atencion camarer,COMIDA,PERSONAL
+359,varied com opcion,COMIDA,COMIDA
+360,material sanitari atencionmed,PERSONAL,INSTALACIONES
+361,pacient grav tardi dar result  hor      verguenz,ESPERA,INSTALACIONES
+362,dar mas informcion enferm,PERSONAL,PERSONAL
+363,zlks,FUERA,FUERA
+364,mejor trat human dign pacient determin areasy servici inexistent,PERSONAL,PERSONAL
+365,horari,PROGRAMACIÓN,PROGRAMACIÓN
+366,barat,PRECIOS,FUERA
+367,asient suci,LIMPIEZA,LIMPIEZA
+368,cachumb,FUERA,FUERA
+369,buen servei,PERSONAL,PERSONAL
+370,chic necesit personal alud mied men  monitor mied cad    chic,PERSONAL,PERSONAL
+371,taz grand te,INSTALACIONES,INSTALACIONES
+372,tiemp esper consult,ESPERA,ESPERA
+373,calid com,COMIDA,COMIDA
+374,orient interior edifici mui grandebmuch graci,INSTALACIONES,PERSONAL
+375,jueg nin chul favor  ,NIÑOS,NIÑOS
+376,na,FUERA,FUERA
+377,com,COMIDA,COMIDA
+378,sistem informat personal,PROGRAMACIÓN,PERSONAL
+379,bien dec madr trabaj aqu si trabaj aqu gustari,FUERA,PERSONAL
+380,enfermer auxili   ,PERSONAL,PERSONAL
+381,tiemp esper retras tres cuart hor atencion do minut increibl,ESPERA,ESPERA
+382,varied desayun opcion yogur vegetal,COMIDA,COMIDA
+383,personal insuficient,PERSONAL,PERSONAL
+384,imprescind aument numer profesional,PERSONAL,PERSONAL
+385,chuch,FUERA,COMIDA
+386,ocasion esper demasi turn  y visit quer delanter necesit bastant complic busqued dar pront        seman just ocasion,ESPERA,ESPERA
+387,atend rap,ESPERA,ESPERA
+388,cit atencion primari ten acud urgenci ten esper innecesari,PROGRAMACIÓN,PERSONAL
+389,sal esper,INSTALACIONES,INSTALACIONES
+390,ten zon peditr mezcl,INSTALACIONES,INSTALACIONES
+391,deberi dar rebicion,PROGRAMACIÓN,FUERA
+392,tiemp esper,ESPERA,ESPERA
+393,precios econom,PRECIOS,PRECIOS
+394,proponent activ oci usuari,PROGRAMACIÓN,FUERA
+395,u,FUERA,FUERA
+396,noch ofert limit com,COMIDA,COMIDA
+397,tiemp esper,ESPERA,ESPERA
+398,ser mas human trat pacient,PERSONAL,PERSONAL
+399,angun ase pacient pequen casi menoscab pacient men acompan,INSTALACIONES,INSTALACIONES
+400,muii bien cabez suelt podriais pon mejor graci snorr rodolf pachec ruiz,PERSONAL,INSTALACIONES
+401,puntual,ESPERA,ESPERA
+402,pod millorarr atend mes tempran,ESPERA,ESPERA
+403, e,FUERA,FUERA
+404,men tiemp esper dar cit,PROGRAMACIÓN,ESPERA
+405,analit extraccion beb deberi hac pediatr,PROGRAMACIÓN,ESPERA
+406,puntual,ESPERA,ESPERA
+407,mied esper,ESPERA,ESPERA
+408,si lleg expres antelacion motiv trabaj lej favor llam siempr ped dec hac encontr nunc ahor ejempl vaci llam  ser agrair graci,PERSONAL,PERSONAL
+409,jueg mes nin,NIÑOS,NIÑOS
+410,mejor servici cit,PROGRAMACIÓN,PROGRAMACIÓN
+411,atend pacient horari acord,PROGRAMACIÓN,PROGRAMACIÓN
+412,meinuu,COMIDA,COMIDA
+413,deb dar hor consult llam      hor retras,ESPERA,ESPERA
+414,tiemp esper,ESPERA,ESPERA
+415,precios cafet mejor,PRECIOS,PRECIOS
+416,tiemp esper acept esper mas hor   ,ESPERA,ESPERA
+417,todod,FUERA,FUERA
+418,inclu menu vegan vegetarian,COMIDA,COMIDA
+419,taquill siempr llen,INSTALACIONES,PRECIOS
+420,ampli plantill bien cubr hor paking,PERSONAL,INSTALACIONES
+421,mes comun medic infarmer contrat personal propon gent paramed gent atend sal esper urgenci sac nervi gent ayud psicolog,PERSONAL,PERSONAL
+422,papel lavab,LIMPIEZA,LIMPIEZA
+423,com,COMIDA,COMIDA
+424,facilit comun diferent disciplin medic,PROGRAMACIÓN,PROGRAMACIÓN
+425,realment gent mal nonl atendeis ven algui k tan grav met rap,ESPERA,PERSONAL
+426,acer esper demasi pacient motiv nervi car facult confront,ESPERA,ESPERA
+427,cartel,INSTALACIONES,FUERA
+428,preci,PRECIOS,PRECIOS
+429,espaci enferm famili,INSTALACIONES,INSTALACIONES
+430,zum natural natural expres aqu mas vigil aliment serv tortill patat acid embaraz,COMIDA,COMIDA
+431,tiemp esper,ESPERA,ESPERA
+432,esprit,ESPERA,FUERA
+433,col,PROGRAMACIÓN,ESPERA
+434,comun cambi horari,PROGRAMACIÓN,PROGRAMACIÓN
+435,minoriz respet horari cit despu vend afect,PROGRAMACIÓN,PROGRAMACIÓN
+436,empat tiemp resolu problem,PERSONAL,PERSONAL
+437,arregl jardin,INSTALACIONES,INSTALACIONES
+438,limpies,LIMPIEZA,LIMPIEZA
+439,inacept eltiemp esper  hor pacient    ano,ESPERA,ESPERA
+440,ampli tiemp dedic cad visit,PROGRAMACIÓN,ESPERA
+441,recepcion,INSTALACIONES,PERSONAL
+442,np,FUERA,FUERA
+443,poll,FUERA,FUERA
+444,thegrefg,FUERA,FUERA
+445,punt higienizacion man,LIMPIEZA,FUERA
+446,pon com san pan comerci,COMIDA,COMIDA
+447,plat menu,COMIDA,COMIDA
+448,algun enfermer auxili pod ten empat ser amabl aunqu mayor,PERSONAL,PERSONAL
+449,tiemp esper,ESPERA,ESPERA
+450,deb pon sill pasill despach    acumul gent pie hac hor derech,INSTALACIONES,INSTALACIONES
+451,te n,FUERA,INSTALACIONES
+452,amabil,PERSONAL,PERSONAL
+453,esperademasi esper,ESPERA,ESPERA
+454,linpi dient,LIMPIEZA,LIMPIEZA
+455,tiemp decesper sevoued cit person    ano ten esper tres hor,ESPERA,ESPERA
+456,atencion client,PERSONAL,PERSONAL
+457,rebaj mes esper visit,ESPERA,ESPERA
+458,com mal calid,COMIDA,COMIDA
+459,falt personal gent q,PERSONAL,PERSONAL
+460,esper,ESPERA,ESPERA
+461,falt privac dar cit,PROGRAMACIÓN,PROGRAMACIÓN
+462,zum,COMIDA,COMIDA
+463,preci,PRECIOS,PRECIOS
+464,plofesiom,PERSONAL,FUERA
+465,com,COMIDA,COMIDA
+466,pod arregl asient pintarraj sac chicl debaj sill hac dan jug mocador   d,INSTALACIONES,INSTALACIONES
+467,medic sab hac hsy suficient personal encim lent ir hospitsl,PERSONAL,PERSONAL
+468,tiemp esper amabil personal,ESPERA,PERSONAL
+469,mejor srvici urgenci,PERSONAL,PERSONAL
+470,tiemp esper,ESPERA,ESPERA
+471,termin obrar,INSTALACIONES,FUERA
+472,horari cit esper paar oper,PROGRAMACIÓN,PROGRAMACIÓN
+473,graci atencion recib,PERSONAL,PERSONAL
+474,atend pront consult urgent,ESPERA,ESPERA
+475,mas inform acompan esper   hor todav pas muj inform puntual,ESPERA,ESPERA
+476,pongais habit ps  orden etceter     ,NIÑOS,NIÑOS
+477,tiemp esper,ESPERA,ESPERA
+478,sal es er bbox demasi pequen gent tos,INSTALACIONES,INSTALACIONES
+479,revis si papel higien ban toall limpi larg dia explicacion pris famili pacient n,LIMPIEZA,LIMPIEZA
+480,esper,ESPERA,ESPERA
+481,lkyli,FUERA,FUERA
+482,limpiez ban,LIMPIEZA,LIMPIEZA
+483,rapidez dar cit,PROGRAMACIÓN,PROGRAMACIÓN
+484,com durant servici,COMIDA,COMIDA
+485,ser mas amabl,PERSONAL,PERSONAL
+486,asistent primari alimentacion hospital diagnost mal evalu pen pag unasegur social verd lej alcanz estandar hospital clinic,PERSONAL,PRECIOS
+487,tont isabeiski demund idem famili aped aich diarr,FUERA,FUERA
+488,mal,PRECIOS,PRECIOS
+489,mejor instal personal eficaz,INSTALACIONES,PERSONAL
+490,tardi hor ver medic hacenn,ESPERA,ESPERA
+491,tiemp esper hor visit cardiolog,ESPERA,ESPERA
+492,tiemp inhuman falt medic mism dolenci pacient ls llam entrar pen sanid public,INSTALACIONES,PERSONAL
+493,peru,FUERA,FUERA
+494,tiemp esper,ESPERA,ESPERA
+495,ser atend,ESPERA,ESPERA
+496,normal hospital preci tan elev menu siqu agu inacept mied gust,PRECIOS,PRECIOS
+497,coronavirus,FUERA,FUERA
+498,com mal,COMIDA,COMIDA
+499,sal sper,INSTALACIONES,INSTALACIONES
+500, ,FUERA,FUERA
+501,doctor perd tiemp aspect sup camp consult minut    habl mism anterior   vez acud sup consult hac cit retras generandi gran malest,PERSONAL,ESPERA
+502,hac freir sal,INSTALACIONES,INSTALACIONES
+503, s  cmolc ntt,FUERA,FUERA
+504,enla tercer plant igien buen usar espong bez tir,LIMPIEZA,LIMPIEZA
+505,sop ewtqba fri,COMIDA,COMIDA
+506,pon huert grand geriatr,INSTALACIONES,INSTALACIONES
+507,si,FUERA,FUERA
+508,realiz mas espectacul musical music cultur alegri diversion,INSTALACIONES,INSTALACIONES
+509,esper,ESPERA,ESPERA
+510,hac ecograf distr habl hij tal vez pod comet error hac anot pacient gener desxonfianc si hac ecograf correct,PERSONAL,ESPERA
+511,bonit consult,INSTALACIONES,FUERA
+512,cost bastant exped cit,PROGRAMACIÓN,PROGRAMACIÓN
+513,orient hospital dificil encontr consult,INSTALACIONES,INSTALACIONES
+514,esper larg,ESPERA,ESPERA
+515,mejorarsecretariat deb contrari tof igual porfavor igual,PERSONAL,INSTALACIONES
+516,secritari emergent,PERSONAL,PROGRAMACIÓN
+517,agiliz lgo,PERSONAL,ESPERA
+518,mejor camiset,PERSONAL,PERSONAL
+519,  ,FUERA,FUERA
+520,soum  efic en s,FUERA,FUERA
+521,tiemp esper,ESPERA,ESPERA
+522,cart,COMIDA,FUERA
+523,plat combin,COMIDA,COMIDA
+524,esper despach    pon asient mism,INSTALACIONES,INSTALACIONES
+525,temz esper,ESPERA,ESPERA
+526,limpi,LIMPIEZA,LIMPIEZA
+527,hospital antigu mejor instal,INSTALACIONES,INSTALACIONES
+528,personal haceis pacient hues falt personal graci haceis atend bien graci forz,PERSONAL,PERSONAL
+529,conslt comenz cuart hor tard primer pacient manan,ESPERA,ESPERA
+530,ser mas amabl pacient,PERSONAL,PERSONAL
+531,rspet oa,FUERA,FUERA
+532,trat manifiest mejor consult    traumatolog,PERSONAL,PERSONAL
+533,to,FUERA,FUERA
+534,horari,PROGRAMACIÓN,PROGRAMACIÓN
+535,napolitan pod ser chocolat,COMIDA,ESPERA
+536,apart extraccion cas dificult extraccion sangr corceg psicolog personal mejor   ultim extraccion problem pacient hac    ano q si ven q si braz perjudic etceter     pas diferent cubicul q exit reclam mejor educ psicolog trat usuari problem elmmoment extraccion lleg expect despues encontr quej desafortun part personal q deb ten experient cuid trat gent     present problem      hac evident mism at extraccion sangr,PERSONAL,PERSONAL
+537,horari cit,PROGRAMACIÓN,PROGRAMACIÓN
+538,busc via resolv problem men tiemp esper visit visit,ESPERA,ESPERA
+539,varied menu,COMIDA,COMIDA
+540,chic informacion desagrad,PERSONAL,PERSONAL
+541,tiemp esperay bost,ESPERA,ESPERA
+542,tiemp esper cit especial,PROGRAMACIÓN,PROGRAMACIÓN
+543,tiemp esper,ESPERA,ESPERA
+544,mejor com,COMIDA,COMIDA
+545,ten mas limpi,LIMPIEZA,LIMPIEZA
+546,puntual,ESPERA,ESPERA
+547,comerci men dulc    ,COMIDA,COMIDA
+548,trat atencion,PERSONAL,PERSONAL
+549,notard,ESPERA,FUERA
+550,vez incomod,PERSONAL,INSTALACIONES
+551,mas espaci sal esper,INSTALACIONES,INSTALACIONES
+552,trat human,PERSONAL,PERSONAL
+553,basic algui atend,PERSONAL,ESPERA
+554,dej munec echar agu ser mimos ellos nen as echar bien,NIÑOS,FUERA
+555,varied men aceit com,COMIDA,COMIDA
+556,tiemp esper consult,ESPERA,ESPERA
+557,tiemp esper,ESPERA,ESPERA
+558,hor medic,PERSONAL,PERSONAL
+559,mas inform lenfermetat,PERSONAL,PERSONAL
+560,hospital inspir confianz tenid mal experient aqyui,PRECIOS,PRECIOS
+561,dar chuch despu roj ojo nin,NIÑOS,NIÑOS
+562,enfad,FUERA,PERSONAL
+563,mes plat menu sol do opcion,COMIDA,COMIDA
+564,ser mas simpat,PERSONAL,PERSONAL
+565,servici mas comod mas liger,INSTALACIONES,PERSONAL
+566,calif ecocardi,PERSONAL,FUERA
+567,atencion pacient part portal nlos medic resident cirug pua siqu obscult pscient mayori vez diagnostic determin sol leer orden form rap hidtorial adem incomod pacient insist dolenci escuch ocasion frecuent inclus ren trat maner intoler mas vez cirug,PERSONAL,PERSONAL
+568,gustaris q mejor suci enhorabuen,LIMPIEZA,LIMPIEZA
+569,mejor esper urgenci,ESPERA,ESPERA
+570,mes varit zum acid,COMIDA,COMIDA
+571,teneis cambi traer mas gent,PERSONAL,PERSONAL
+572,preci caf      ufff,PRECIOS,PRECIOS
+573,men tiemp d esper,ESPERA,ESPERA
+574,putosss,FUERA,FUERA
+575,agai dan,PERSONAL,PERSONAL
+576,buen atencion,PERSONAL,PERSONAL
+577,ecsplicacion,PERSONAL,FUERA
+578,  ,FUERA,FUERA
+579,pon parqu,INSTALACIONES,INSTALACIONES
+580,juguet nin nin,NIÑOS,NIÑOS
+581,varied menu,COMIDA,COMIDA
+582,limpiez,LIMPIEZA,LIMPIEZA
+583,personal nunc habit,PERSONAL,PERSONAL
+584,dog sim,FUERA,FUERA
+585,puntual,ESPERA,ESPERA
+586,tiemp esper,ESPERA,ESPERA
+587,atend mas rap mied urjensi,ESPERA,ESPERA
+588,uifyhujk,FUERA,FUERA
+589,pon air acondicion sal esper,INSTALACIONES,INSTALACIONES
+590,esper cirujia esper neurolog,ESPERA,ESPERA
+591,seperamunchooacienteparaqueted pan,FUERA,COMIDA
+592,k iqe,FUERA,FUERA
+593,bastant rat esper,ESPERA,ESPERA
+594,iroimaid,FUERA,FUERA
+595,ratamient deberi aplic enferm posiblec hra esper pon aerosol,ESPERA,ESPERA
+596,s g   ,FUERA,FUERA
+597,sistem llam pacents baj visibil,PROGRAMACIÓN,PROGRAMACIÓN
+598,deriv servici,PROGRAMACIÓN,PERSONAL
+599,  ,FUERA,FUERA
+600,tiemp esper,ESPERA,ESPERA
+601,atend enferm manan irse activ,PERSONAL,PERSONAL
+602,pag mejor personal sanitari prov mas mitjans,PERSONAL,PERSONAL
+603,mes com,COMIDA,COMIDA
+604,tv gratis,INSTALACIONES,INSTALACIONES
+605,estais jug cn diner,PRECIOS,NIÑOS
+606,com vegetarian hor deb,COMIDA,COMIDA
+607,esper mas  h vecin doctor,ESPERA,ESPERA
+608,tiemp esper peros complic,ESPERA,ESPERA
+609,cafet car comerci cantid dej des,PRECIOS,INSTALACIONES
+610,esper,ESPERA,ESPERA
+611,personal reforz,PERSONAL,PERSONAL
+612,bocadill ten gust refrit varied escog tip pan ser hospital segund auri ten cont pacient acompan alergi alimentari intoler,COMIDA,COMIDA
+613,juguet favor,NIÑOS,NIÑOS
+614,ruuelaci quaflitat preci mas cont qyuyei hospital,PRECIOS,PRECIOS
+615,  hor esper mas cre,ESPERA,ESPERA
+616,recurs human,PERSONAL,PERSONAL
+617,magrad dentist flor pod ser mentir,PERSONAL,INSTALACIONES
+618,resolv problem sufr vertebr hagui sistem clinic quimic metr ayud,PERSONAL,FUERA
+619,sill,INSTALACIONES,INSTALACIONES
+620,invit,FUERA,FUERA
+621,esper   min delantedel despach gestion pacient mientr manten convers telefon,ESPERA,ESPERA
+622,mejor sal enferm,INSTALACIONES,INSTALACIONES
+623,preci econom,PRECIOS,PRECIOS
+624,especial tard dart hra,ESPERA,ESPERA
+625,junt sol lug analitiv cca ecg radiografi,INSTALACIONES,INSTALACIONES
+626,hoy llev   hor ser atend     esguinc amig vez urgenci deb llam pacienci,ESPERA,ESPERA
+627,gut ser posbl ase fuess repar mas igien mied sincer dej des  sobr part rehabilit imposb entrar,LIMPIEZA,LIMPIEZA
+628,tiemp esper pediatr paa beb muchisim fiebr moc mas  hras esper aun segu increibl,ESPERA,ESPERA
+629,si demor import segund deb aviss pacient men tiemp demor hoy ser casi   hor si cridabem ir ban pacient    ano termin dolor hues rat sent,ESPERA,ESPERA
+630,ir rap,ESPERA,ESPERA
+631,am,PRECIOS,FUERA
+632,dej maquin control visit gust trat human graci,INSTALACIONES,PERSONAL
+633,varied,COMIDA,COMIDA
+634,pod man rot losient,FUERA,PRECIOS
+635,tard llam teni cit mas hoir retras,PROGRAMACIÓN,ESPERA
+636,tan dificil conect telefon digest,PROGRAMACIÓN,PROGRAMACIÓN
+637,juhogugublkijbjl,FUERA,FUERA
+638,content trat profesional recib part personal conform servici,PERSONAL,PERSONAL
+639,ir rap medic,ESPERA,ESPERA
+640,varied product preci alto,PRECIOS,PRECIOS
+641,arnold knotterus,FUERA,FUERA
+642,poniend personal mitjans    si mportant invert diner contribuyent,PERSONAL,PERSONAL
+643,limpiez mes sal,LIMPIEZA,LIMPIEZA
+644,com brocoli,COMIDA,COMIDA
+645,educ,PERSONAL,PERSONAL
+646,tiemp esper,ESPERA,ESPERA
+647,mas gent,PERSONAL,PERSONAL
+648,segund,FUERA,INSTALACIONES
+649,limpiez bastant asient,LIMPIEZA,LIMPIEZA
+650,list esper explor complementari quirofan,ESPERA,ESPERA
+651,ghj,FUERA,FUERA
+652,horari,PROGRAMACIÓN,PROGRAMACIÓN
+653,tapon provisional k qued mas fij k ben repet variasv,INSTALACIONES,PERSONAL
+654,teneis tard men cog gent do hor,ESPERA,ESPERA
+655,memu vari aptar intoler lactos sorbitol,COMIDA,COMIDA
+656,mied faborit din                                                 ,FUERA,FUERA
+657,deberi mas coordin distint sevici,PERSONAL,PERSONAL
+658,nanometr,FUERA,FUERA
+659,atencion buen,PERSONAL,PERSONAL
+660,favor diakisis renuevev bocadill siempr igual ano quir tortill frances mal pon mas dias tortill patat,COMIDA,PRECIOS
+661,ojal situacion activ trabaj pod program cit tard pssibl dentr elmvostr horsri deb asist cit       manan hac dificil concili laboral medic entend particip dificult tecnic recurs human pod implic sugerent program cit cualqu consult pod ten cont situacion laboral pacient gerard anton,PROGRAMACIÓN,PROGRAMACIÓN
+662,jueg nin favor,NIÑOS,NIÑOS
+663,medic mas amabl cordial,PERSONAL,PERSONAL
+664,enfermer  a  b noch verdader equipaz ser plac graci,PERSONAL,PERSONAL
+665,advert posibl consecuent decision,PERSONAL,FUERA
+666,ju,FUERA,FUERA
+667,pon tostador nin celiac mes surt product glut,COMIDA,COMIDA
+668,acer tont,FUERA,FUERA
+669,tiemp esper pon doctor,ESPERA,ESPERA
+670,emb cit             todav avis,PROGRAMACIÓN,PROGRAMACIÓN
+671,  ,FUERA,FUERA
+672,atend pacient anesteci personal infarmacion deberi ten tact tont sol nervios,PERSONAL,PERSONAL
+673,organiz prueb ven vilanov analit      ecografian       radiografi    creomqu pod gestionarbmejor pacient manan   prueb graci,ESPERA,PROGRAMACIÓN
+674, h segu esper,ESPERA,ESPERA
+675,met mas personal con,PERSONAL,PERSONAL
+676,person coron virus contagi,FUERA,FUERA
+677,personal,PERSONAL,PERSONAL
+678,antigu deplor falt inversion centr,INSTALACIONES,INSTALACIONES
+679,cuenc ensal iytortuuuuppwur,COMIDA,COMIDA
+680,na rap sal esper,ESPERA,ESPERA
+681,si tom tranquil esper lueg atend tardi nad venider ayer hij mand cas hoy aqu vez,ESPERA,ESPERA
+682,mu aburri sal esper,INSTALACIONES,INSTALACIONES
+683,varied com,COMIDA,COMIDA
+684,quer mejor llam laur,FUERA,NIÑOS
+685,acept adesl,PROGRAMACIÓN,FUERA
+686,atncion telefon,PROGRAMACIÓN,PROGRAMACIÓN
+687,atencion bar,PERSONAL,PERSONAL
+688,si demor import segund deb aviss pacient men tiemp demor hoy ser casi   hor si cridabem ir ban pacient    ano termin dolor hues rat sent,ESPERA,ESPERA
+689,puntual,ESPERA,ESPERA
+690,trat amabl,PERSONAL,PERSONAL
+691,cafet fatal,PERSONAL,PERSONAL
+692,comod asient,INSTALACIONES,INSTALACIONES
+693,preci disen distribu espaci,PRECIOS,PRECIOS
+694,tiemp esper,ESPERA,ESPERA
+695,tiemp,ESPERA,ESPERA
+696,excelent equip profesional gran calid human,PERSONAL,PERSONAL
+697,preci,PRECIOS,PRECIOS
+698,cambi personal,PERSONAL,PERSONAL
+699,medic favor,PERSONAL,PERSONAL
+700,varied com baj preci,PRECIOS,PRECIOS
+701,castellan,FUERA,PERSONAL
+702,to necesit mas personal,PERSONAL,PERSONAL
+703,servici urgeci fatal,PERSONAL,PERSONAL
+704,trat,PERSONAL,PERSONAL
+705,explic medic pronost,PERSONAL,PERSONAL
+706,recurs oersonal,PERSONAL,INSTALACIONES
+707,mejor trat human pacient instal dign person parec animal acic estabulacion,PERSONAL,PERSONAL
+708,com resident cantid comi anterior empres,COMIDA,COMIDA
+709,cart mas vari,COMIDA,COMIDA
+710,puntual,ESPERA,ESPERA
+711,amabil respet,PERSONAL,PERSONAL
+712,sal esper discret moderniz mobiliari,INSTALACIONES,INSTALACIONES
+713,pumtual,ESPERA,FUERA
+714,informacion,PERSONAL,PERSONAL
+715,tiemp esper,ESPERA,ESPERA
