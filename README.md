@@ -60,11 +60,11 @@ Once the predictor (estimator.deploy()) has been created we create a Lambda Func
 
 Lambda function code is also included in this project.
 
-Finally, we create an API linked to our lambda function in AWS API, and we will get the API url that we would need to copy and paste into the “Index.html” file in the where: action= “link”
+Finally, we create an API linked to our lambda function in AWS API, and we will get the API url that we would need to copy and paste into the “Index.html” file in the where: action= “link”. More instructions are provided in the Comment_Adivine.ipynb file.
 
-The lambda functions will take a string and convert it to a list of a single string since the model would accept an array in order to make predictions.
+The lambda functions will take a string and send it to the model, the prediction function has been modified so that predict_fn() would preprocess the input and put in an a format the model can make a prediction (array) and return as string of predictions to pass back to the Web App and Lambda.
 
-To make predictions we access “Index.html” and upload a CSV file containing reviews on each row. Then click Submit and we we receive a table with predictions o neach comment.
+To make predictions we access “Index.html” and upload a CSV file containing reviews on each row. Then click Submit and we we receive a table with predictions on each comment.
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
