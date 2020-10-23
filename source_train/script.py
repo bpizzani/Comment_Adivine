@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
     ## TODO: Define a model 
     
-    model = Pipeline([("tfidf",TfidfVectorizer(vocabulary=None,analyzer='word',ngram_range=(1,1))),("clf",LinearSVC())])
+    model = Pipeline([("tfidf",TfidfVectorizer(vocabulary=None,analyzer='word',ngram_range=(1,2))),("clf",LinearSVC())])
     #model = LinearSVC()
 
     
